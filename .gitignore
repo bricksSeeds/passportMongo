@@ -16,5 +16,3 @@ node_modules
 
 config/database.js
 config/auth.js
-config/database.js
-config/database.js
